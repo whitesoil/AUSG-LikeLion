@@ -29,4 +29,4 @@
 3. [S3 정적 웹사이트 호스팅](3_s3/)
 4. [Certification Manager로 인증서 만들기](4_certificate_manager)
 5. [CloudFront로 CDN 구성하기](5_cloudfront/)
-6. [삭제 가이드](8_Delete/)
+6. [삭제 가이드](6_Delete/)
